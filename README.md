@@ -1,5 +1,5 @@
 # Playable Aegis
-Everyone's favorite glorified scrap, but as a playable survivor!.
+Everyone's favorite glorified scrap, but as a playable survivor!
 
 ![screenshot of playable aegis][def]
 
