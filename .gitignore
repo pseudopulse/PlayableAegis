@@ -1,4 +1,7 @@
 # libs and build directories
-ModName/libs
-ModName/bin
-ModName/obj
+PlayableAegis/libs
+PlayableAegis/bin
+PlayableAegis/obj
+build.sh
+Aegbuild
+Aegis.zip

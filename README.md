@@ -1,2 +1,6 @@
-# r2template
-This repository is a template-repository that contains the basic structure for a risk of rain 2 mod. Names are left empty in the solution, manifest, and csproj files for the user to fill out
+# Playable Aegis
+Everyone's favorite glorified scrap, but as a playable survivor!.
+
+![screenshot of playable aegis][def]
+
+[def]: https://cdn.discordapp.com/attachments/959133036815978498/1072332112587403344/074443-screenshot.png "playable aegis"
